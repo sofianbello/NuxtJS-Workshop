@@ -1,1 +1,1 @@
-# Vue.JS-Workshop
+# NUXT-Workshop
