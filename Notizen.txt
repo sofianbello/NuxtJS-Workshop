@@ -1,0 +1,18 @@
+Nuxt.Js ist ein intuitives Vue.JS Framework
+
+Vorteile:
+-Modularisierung
+-Vermeidung von Code-Redundanz
+-Große Übersichtlichkeit
+-Bei Nutzung von JS- weitere Reduzierung von Code
+-Macht Nutzung von Headless-CMS erst möglich
+
+Nachteile:
+-Man muss es lernen
+-Eignet sich nicht unbedingt für kleine Websites (Onepager) / Libraries & Dependencies werden geladen die nicht benötigt/benutzt werden.
+
+
+Material:
+
+
+PDF
